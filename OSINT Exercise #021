@@ -1,0 +1,8 @@
+Following exercise: https://gralhix.com/list-of-osint-exercises/osint-exercise-021/
+
+The question is if you can find the exact location used as a map on the chocolate. 
+
+In the right top corner there's written "DO IT RIGHT" and with a simple google search: "DO IT RIGHT" + chocolate bar. You can instantly find the origine website.
+On their website the company behind the production of the Puchero chocolate bar is located in spain.
+Using Google and typing in "Puchero chocolate Spain maps" you get an instant of the main website https://www.bcncoffeeguide.com/item/puchero/. And conveniently they also list their coordinates on there which are GPS 41.351953555834, -4.6894073940258.
+Typing these into google maps and flipping the picture by 180°, it overlaps exactly with the given picture in the exercise.
