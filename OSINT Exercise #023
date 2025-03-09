@@ -1,1 +1,7 @@
+Following exercise: https://gralhix.com/list-of-osint-exercises/osint-exercise-023/
 
+There are two questions 1. Find the name of the art piece 2. Find out how much a similar piece would cost
+
+You need to find the video which is mentioned https://youtu.be/z9gr8yRSPZg?t=218. Then you can use the windows snippet tool to cut out the part of the wallpaper.
+To find out who drew it you can use google's own image searcher. Upon a quick search you can discover a link to an inPrint profile which sells the same picture https://www.inprnt.com/gallery/adamscythe/.
+So you have two birds one stone because you get the title aswell as the price for the art piece.
