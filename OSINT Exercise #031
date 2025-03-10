@@ -1,0 +1,13 @@
+Following exercise https://gralhix.com/list-of-osint-exercises/osint-exercise-031/
+
+There are three questions that need to be answered.
+a) Location and date of birth.
+b) Current residence and date of arrival.
+c) A photo in its current habitat.
+
+Given is an image of a giraffe when used in tineye you are lead to an article by zooborns.com (https://www.zooborns.com/zooborns/2011/08/diving-six-feet-head-first-into-the-world-.html). Within this article you can find the date of birth which is the October 23rd 2009 and the location: Virginia Zoo.
+To get more information we need to find a updated article for that we can try searching within the zooborns website. When using keywords like the names of her parents or 6 feet tall you can find other articles. One named "Diving Six Feet Head First into the World" which already suggest a transfer.
+
+On the bottom of the article there is a small mention of where the giraff is at now which is the Disney's Animal Kingdom in Florida. When you google Disney's Animal Kingdom in Florida + willow girrafe (Willow is the name and its also mentioned in the article) you get to the following website https://allears.net/animal-kingdom/new-babies-at-disneys-animal-kingdom/.
+There is the date given as the arrival, Tuesday October 12 and when you go back to the last plausible October 12 that was a tuesday you go back to 2010. To find a picture of her current habitat you need to google with some keywords, Disney’s Animal Kingdom + willow giraffe + masia. Then you get this website which hosts multiple pictures of willow and other giraffes 
+https://www.clickorlando.com/theme-parks/2020/12/04/disneys-animal-kingdom-welcomes-pair-of-masai-giraffe-calves-to-savanna/.
